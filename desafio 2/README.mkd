@@ -32,4 +32,4 @@ Para a integração com PBI os seguintes passos foram efetuados:
 
 Após a transformação dos dados proposta, os mesmos foram testados utilizando alguns visuais do Power BI conforme imagem abaixo:
 
-![Teste dos dados](C:\Users\fabri\Documents\GitHub\power_by_analyst\desafio 2\relatorio.png)
+![teste](desafio 2/relatorio.png)
